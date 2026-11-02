@@ -310,7 +310,7 @@ The central business lesson is:
 
 ## Project Files
 
-- Excel Workbook: [Insert Excel workbook link here]
+- Excel Workbook: [https://github.com/obiekwe-emmanuel/TechNova-Gadgets-Discount-Effectiveness-Analysis/blob/main/TechNova%20Gadgets%20Project.xlsx]
 - GitHub Repository: [https://github.com/obiekwe-emmanuel/TechNova-Gadgets-Discount-Effectiveness-Analysis]
 
 ---
